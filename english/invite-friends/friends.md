@@ -9,14 +9,18 @@ Do you:
 
 [Eat marshmallow and start a discussion of how such a strange thing could happen?](start_discussion/discuss.md)
 
+[Have a sleepover party?](sleepover/sleepover.md)
+
 [Start a party?](kick_out_the_jams/jamming.md)
 
-[Bring some chocolate and graham crackers to make s'mores?] (smores/with_friends.md)
+[Bring some chocolate and graham crackers to make s'mores?](smores/with_friends.md)
 
-[Start an extreme marshmallow mosh pit] (mosh_pit/mosh_pit.md)
+[Start an extreme marshmallow mosh pit](mosh_pit/mosh_pit.md)
 
 [sing karaoke?](../karaoke/karaoke/sing.md)
 
 [don't sing karaoke?](../karaoke/nope.md)
 
 [do a flip](flip/flip.md)
+
+[eat breakfast?](../breakfast/breakfast.md)
